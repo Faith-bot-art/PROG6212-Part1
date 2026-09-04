@@ -91,22 +91,6 @@ See the complete [API Endpoint Plan](docs/endpoint-plan.md) for detailed specifi
 
 ---
 
-## Getting Started
-
-### Prerequisites
-
-- SQL Server (2019 or later)
-- SQL Server Management Studio (SSMS)
-- .NET 8.0 SDK (for Part 2 and 3)
-- Visual Studio 2022 (recommended)
-- Git (for version control)
-
-### Step 1: Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/RaceDay.git
-cd RaceDay
-- Update personal profile information
 
 ---
 
